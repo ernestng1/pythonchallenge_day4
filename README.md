@@ -1,5 +1,5 @@
 <h1>Day 4 of the 100 Days of Code: The Complete Python Pro Bootcamp</h1>
-<p>For the Day 4 challenge, I created a Rock, Paper and Scissors game. This is a culmination of the teaching points that were shared in the tutorial, including the following but not limited to</p>
+<p>For the Day 4 challenge, I created a Rock, Paper and Scissors Game. This is a culmination of the teaching points that were shared in the tutorial, including the following but not limited to</p>
 <ul>
   <li>list and nested list</li>
   <li>random module</li>
