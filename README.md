@@ -1,9 +1,9 @@
-<h1>Day 1 of the 100 Days of Code: The Complete Python Pro Bootcamp</h1>
-<p>For the Day 1 challenge, I created a Band Name Generator concatenates your hometown's name and pet's name to form a band name. This is a culmination of the teaching points that were shared in the tutorial, including the following but not limited to</p>
+<h1>Day 4 of the 100 Days of Code: The Complete Python Pro Bootcamp</h1>
+<p>For the Day 4 challenge, I created a Rock, Paper and Scissors game. This is a culmination of the teaching points that were shared in the tutorial, including the following but not limited to</p>
 <ul>
-  <li>print function</li>
-  <li>variable and naming conventions</li>
-  <li>input function</li>
+  <li>list and nested list</li>
+  <li>random module</li>
+  <li>conditional if, elif and else statements</li>
 </ul>
 
 <h2>Why am I doing this?</h2>
